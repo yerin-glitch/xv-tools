@@ -1,0 +1,16 @@
+# Third-party attribution
+
+Revi XV is package curator and author of independent workflows, not the author of third-party originals.
+
+- Addy Osmani, `addyosmani/agent-skills` — MIT; original uploaded files preserved in Codex edition with active wrappers; Web uses independent adaptations. See LICENSES/addyosmani-agent-skills-MIT.txt.
+- Corey Haines, `coreyhaines31/marketingskills` — user-uploaded social reference material and eval data; MIT at the audited commit. See LICENSES/marketing-skills-MIT.txt. The packaged Social instructions are independent, not the original upstream SKILL.md.
+- Other named upstream projects are credited in catalog/source-map.csv and catalog/additional-skills.csv. Their code/assets are not represented as bundled original source. MIT/Apache/per-file notes are recorded where checked; retain attribution and license conditions when importing future originals.
+- Superpowers (Jesse Vincent) is used via the actual external plugin if available, not a duplicate implementation in this package.
+- Rainbow Team taxonomy references the original package's source documentation and defensive boundaries; Revi XV adapters are not a reproduction of a third-party codebase.
+
+## SEO provider additions
+- Semrush, `semrush/skills`: official Apache-2.0 source at `019ab369403c0e816707edae6194fa3bb47dfcd0`; 8 independently authored provider workflows, no verbatim upstream files.
+- Ahrefs, `ahrefs/ahrefs-api-skills`: official Apache-2.0 source at `7e777771deefe378d3e0967c4ccd8b41dd07920c`; 1 export-analysis workflow, no verbatim upstream files.
+- Claude SEO: seven selected specialist additions, pinned MIT-reference source.
+- Marketing Skills: all 53 reference topics mapped including the shared SEO audit; one consent analytics specialization.
+See catalog/seo-marketing-suites.csv. No original vendor SDK, server, credentials or code copied.
